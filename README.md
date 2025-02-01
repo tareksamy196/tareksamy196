@@ -1,6 +1,8 @@
-<h1 align="center">Welcome to Tarek Samy's Profile 👋 </h1>
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<h3 align="center">
+  Welcome to Tarek Samy's Profile 👋 
+</h3>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines= Backend+Developer;" alt="Typing SVG" /></a>
 </p>
