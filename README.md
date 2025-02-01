@@ -13,7 +13,7 @@
 - 🛠 **Skilled in Docker, Git, and Design Patterns.**  
 - 🚀 **Passionate about writing clean and scalable code.**  
 
-<br><br>
+---
 
 ## 🚀 Tech Stack  
 <p align="center">
@@ -41,9 +41,3 @@
 </p>
 
 
-
----
-
-<p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="40px">
-</p>
