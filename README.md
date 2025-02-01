@@ -15,39 +15,9 @@
 
 <br><br>
 
-
 ## 🚀 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,github,postman,html,css,js&theme=light" />
-</p>
-
----
-
-## 📌 Featured Projects  
-
-### 🛒 **Ecommerce Platform**  
-- 🛠 *Technologies:* **ASP.NET MVC, Entity Framework, SQL Server**  
-- ✔️ Implemented **product management, user authentication, and order processing**.  
-- 🔹 Focused on **security best practices and database optimization**.  
-
-### 📝 **Blog Application**  
-- 🛠 *Technologies:* **ASP.NET Web API, SQL Server**  
-- ✔️ Developed **user registration, content management, and commenting system**.  
-- 🔹 Applied **best practices in database design and performance tuning**.  
-
----
-
-## 📜 Certifications & Internships  
-- 🎓 **Backend Diploma (ASP.NET)** – *Route Academy (Mar 2024 – Sep 2024)*  
-- 🎓 **Backend Summer Internship (PHP & Laravel)** – *Yat Academy (Jun 2023 – Aug 2023)*  
-- 🎓 **Machine Learning Internship** – *AMIT Learning (Jun 2022 – Jul 2022)*  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekSamy&show_icons=true&theme=light" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekSamy&theme=light" height="150">
 </p>
 
 ---
@@ -61,6 +31,16 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekSamy&show_icons=true&theme=light" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekSamy&theme=light" height="150">
+</p>
+
+
 
 ---
 
