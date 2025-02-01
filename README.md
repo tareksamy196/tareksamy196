@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Backend+Developer+%5C+ASP.NET+Core+%5C+C%23+%5C+SQL;Building+Scalable+and+Efficient+Web+Applications" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=400&lines=Backend+Developer+%7C+ASP.NET+Core+%7C+C%23+%7C+SQL;Building+Scalable+and+Efficient+Web+Applications" alt="Typing SVG">
   </a>
 </p>
 
