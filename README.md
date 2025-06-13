@@ -1,62 +1,74 @@
-<img width="220" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<p align="right">
+  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="160" style="border-radius:16px;box-shadow:0 6px 22px 0 rgba(0,0,0,0.09);" alt="Coding Animation">
+</p>
 
-<h2 align="center">Tarek Samy Fathy</h2>
-<h4 align="center"><i>Backend Developer</i></h4>
+<h1 align="center" style="font-weight:bold; letter-spacing:1px;">Tarek Samy Fathy</h1>
+<h3 align="center" style="font-weight:normal; color:#5c5c5c;">Backend Developer</h3>
+
 <p align="center">
-  <a href="mailto:tareksamy124@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/tarek-samy">LinkedIn</a>
+  <a href="mailto:tareksamy124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-24292e?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tarek-samy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>ASP.NET Core | C# | SQL Server | Docker | Git</b><br/>
+  Dedicated to building scalable, secure, and high-performance backend solutions.
 </p>
 
 ---
 
-<p align="center">
-  <b>ASP.NET Core</b> | <b>C#</b> | <b>SQL Server</b> <br>
-  Building scalable, efficient backend solutions. <br>
-  Focused on clean code, secure APIs, and data-driven apps.
-</p>
+## 👨‍💻 About Me
 
----
-
-## 🚀 About Me
-
-- Backend specialist with hands-on experience in ASP.NET MVC, Entity Framework, and SQL.
-- Skilled in building RESTful APIs, authentication systems, and robust database architectures.
-- Always striving to optimize code and enhance performance.
-- Passionate about teamwork, problem solving, and continuous learning.
+- Backend developer specializing in ASP.NET Core, Entity Framework, and SQL Server.
+- Experienced with REST API design, authentication, and database optimization.
+- Strong advocate for clean code, teamwork, and continuous learning.
+- Always eager to embrace new technologies and best practices.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,sql,docker,git,js,html,css,bootstrap&theme=light" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sql,docker,git,github,js,html,css,bootstrap,postman&theme=light" />
 </p>
 
 ---
 
-## 📌 Selected Projects
+## 🚀 Projects
 
-- **Ecommerce Platform:**  
-  Product management, user authentication, secure order processing.  
-  <sub>ASP.NET MVC, Entity Framework, SQL Server</sub>
+**Ecommerce Platform**  
+End-to-end product management, user authentication, and order workflows. Focus on security and database performance.  
+<sub><i>ASP.NET MVC, Entity Framework, SQL Server</i></sub>
 
-- **Restaurant System:**  
-  Admin/customer roles, orders, wishlist, PayPal integration, hosted with Firebase.  
-  <sub>HTML, CSS, JavaScript, jQuery, Bootstrap, Firebase</sub>
+**Restaurant System**  
+Multi-role support, product/order management, PayPal integration, Firebase data storage, and responsive UI.  
+<sub><i>HTML, CSS, JavaScript, jQuery, Bootstrap, Firebase</i></sub>
 
 ---
 
 ## 🏅 Certifications
 
-- Full Stack Development Using ASP.NET & Angular (ITI)
-- Backend Diploma – Route Academy
-- Backend Internship (PHP & Laravel) – Yat Academy
+- Full Stack Development Using ASP.NET & Angular — ITI
+- Backend Diploma — Route Academy
+- Backend Internship (PHP & Laravel) — Yat Academy
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekSamy&show_icons=true&theme=light" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekSamy&theme=light" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=tareksamy196&show_icons=true&theme=light&hide_border=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareksamy196&theme=light&hide_border=true" height="160">
+</p>
+
+---
+
+<p align="center" style="color: #929292;">
+  <i>Open to collaboration and new backend challenges!</i>
 </p>
