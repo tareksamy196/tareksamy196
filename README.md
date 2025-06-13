@@ -1,9 +1,9 @@
-<p align="right">
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="160" style="border-radius:16px;box-shadow:0 6px 22px 0 rgba(0,0,0,0.09);" alt="Coding Animation">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation">
 </p>
 
-<h1 align="center" style="font-weight:bold; letter-spacing:1px;">Tarek Samy Fathy</h1>
-<h3 align="center" style="font-weight:normal; color:#5c5c5c;">Backend Developer</h3>
+<h1 align="center">Tarek Samy Fathy</h1>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
   <a href="mailto:tareksamy124@gmail.com">
